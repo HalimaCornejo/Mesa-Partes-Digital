@@ -1,1 +1,2 @@
-# Archivo principal.
+def registrar_expediente():
+    pass
